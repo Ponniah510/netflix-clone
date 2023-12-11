@@ -39,9 +39,9 @@ body{
     margin-left: 20px;
 }
 .banner{
-    background-image: url(new.png);
+    background-image: url(banner.jpg);
     background-size: cover;
-    background-position: center center center;
+    background-position: center center ;
     color: white;
     height:448px;
 }
